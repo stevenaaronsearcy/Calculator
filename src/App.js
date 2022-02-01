@@ -58,7 +58,7 @@ function App() {
     <div>
       <div className="calculator-body">
         <div>
-          <h1>Simple Calculator</h1>
+          <h1>A Simple Calculator</h1>
           <h2 className="myname">By Steven Searcy</h2>
         </div>
         <Keypad onClick={onClick} result={state.result} />
