@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color:  rgb(255, 255, 255);
+  padding-top: 60px;
+  font-size: 60px !important;
+};
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 20px !important;
+  }
+}
+
+
+
+
+
